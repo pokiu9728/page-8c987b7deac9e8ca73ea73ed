@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6d08a41b65a9949d6f2f2177",
+  "owner": "pokiu9728",
+  "repo": "page-8c987b7deac9e8ca73ea73ed",
+  "title": "机场榜单Top1",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8c987b7deac9e8ca73ea73ed",
+      "a": "买节点",
+      "b": "机场榜单Top1",
+      "entity": "买节点",
+      "brand": "机场榜单Top1",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e5d527064c86b9e802d0daf34a97389b006c0e28f44bf80210201e3fe88b9f48",
+      "content": {
+        "primary_entity": "买节点",
+        "keyword1": "买节点",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "选择适配客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选套餐，马上用",
+          "AI_DESCRIPTION": "，覆盖基础版、旗舰版和团队版三档订阅，月付从 ¥15 起、年付从 ¥150 起，按设备数量和流量需求灵活挑选。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线；团队版每月 1000GB、支持 20 台设备，适合多终端协同使用。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量和订阅周期做选择。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "100GB 到 1000GB 多档流量，按日常用量选择合适套餐。",
+          "AI_FEATURE_TEXT_2": "3 台到 20 台设备支持，覆盖个人、家庭与团队场景。",
+          "AI_FEATURE_TEXT_3": "月付与年付并行，年付价更低，按长期需求决定周期。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选服务到配订阅，三步完成上手。",
+          "AI_GUIDE_TITLE": "三步配置流程",
+          "AI_HERO_INTRO": "买节点提供基础版、旗舰版和团队版三档订阅，月付 ¥15 起、年付 ¥150 起。按设备数量与流量需求挑选套餐，再结合客户端文档配置订阅，个人、家庭和团队都有对应方案。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选",
+          "AI_HIGHLIGHT_2": "年付价更省",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付更省。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "核对设备支持数量、流量额度和订阅周期，确认符合使用需求。",
+          "AI_STEP_TEXT_3": "按所用客户端的文档导入订阅，完成节点配置后即可使用。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "选对套餐再出发",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量额度与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐主要差在哪里？",
+          "AI_FAQ_ANSWER_1": "基础版提供每月 100GB 与 3 台设备；旗舰版升级到 300GB、5 台设备，并含专线加速与优先工单；团队版为 1000GB、20 台设备，支持定制路由。",
+          "AI_FAQ_QUESTION_2": "年付会比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 150 元、旗舰版 350 元、团队版 850 元，相当于每月 12.5 元、约 29 元与约 71 元，比对应月付价格更低。",
+          "AI_FAQ_QUESTION_3": "可以同时在多台设备上用吗？",
+          "AI_FAQ_ANSWER_3": "每档套餐都有同时在线设备上限，分别为 3 台、5 台与 20 台，超出后需减少在线设备或升级套餐。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅信息后保存并更新节点列表，具体步骤参考客户端自带文档。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "可等待下个计费周期重置，或升级到更高流量档位；团队版 1000GB 适合多设备长时间使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1616a84dcd62ac8d416def3854ea68346cd1305717b52046371db0927f39df69",
+    "sitemap.xml": "8fb516cd557820d07a64e90322b01a1b59b48029e858e515b26787aa0676d90d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f8840bf944635a135927c2f451b3b41724ebc2d7b2d62a2b267efd28c4d33c68"
+}
